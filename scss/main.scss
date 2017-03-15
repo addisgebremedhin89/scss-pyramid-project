@@ -1,0 +1,16 @@
+/* no styling will be done here, just importing all of our other .scss files to be rendered on html page */
+
+@import 'base/_variables.scss';
+@import 'base/mixins.scss';
+@import 'base/reset.scss';
+@import 'base/_base.scss';
+
+
+@import 'base/_header.scss';
+@import 'base/_footer.scss';
+
+@import 'base/_typography.scss';
+@import 'base/_buttons.scss';
+@import 'base/_blocks.scss';
+
+@import 'base/_component.scss';
